@@ -96,15 +96,25 @@ Before you begin, ensure you have:
    Create a `config.json` file in the root directory:
    ```json
    {
-     "token": "YOUR_BOT_TOKEN",
-     "prefix": "!",
-     "clientId": "YOUR_CLIENT_ID",
-     "lavalink": {
-       "host": "localhost",
-       "port": 2333,
-       "password": "youshallnotpass"
-     }
+   "token": "",
+   "prefix": "!",
+   "embedColor": "#FF0000",
+   "maxQueueSize": 100,
+   "maxPlaylistSize": 50,
+   "defaultVolume": 80,
+   "leaveOnEmpty": true,
+   "leaveOnEmptyDelay": 300000,
+   "leaveOnEnd": true,
+   "leaveOnEndDelay": 60000,
+   "lavalink": {
+    "host": "lava-all.ajieblogs.eu.org",
+    "port": 443,
+    "password": "https://dsc.gg/ajidevserver",
+    "secure": true,
+    "identifier": "public-lavalink"
    }
+   }
+
    ```
 
 4. **Start the bot**
