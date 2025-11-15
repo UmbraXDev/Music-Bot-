@@ -7,10 +7,6 @@
 
 Elevate your server's audio experience with high-quality playback, intuitive commands, and seamless music management.
 
-[![Discord Server](https://img.shields.io/discord/1391312182494625843?color=5865F2&logo=discord&logoColor=white)](https://discord.gg/Whq4T2vYPP)
-[![Node.js](https://img.shields.io/badge/Node.js-16%2B-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=social)](https://github.com/UmbraXDev/Music-Bot/stargazers)
 
 [Features](#-features) • [Installation](#-installation) • [Commands](#-commands) • [Support](#-support--community) • [Contributing](#-contributing)
 
