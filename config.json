@@ -1,0 +1,19 @@
+{
+  "token": "",
+  "prefix": "!",
+  "embedColor": "#FF0000",
+  "maxQueueSize": 100,
+  "maxPlaylistSize": 50,
+  "defaultVolume": 80,
+  "leaveOnEmpty": true,
+  "leaveOnEmptyDelay": 300000,
+  "leaveOnEnd": true,
+  "leaveOnEndDelay": 60000,
+  "lavalink": {
+    "host": "lava-all.ajieblogs.eu.org",
+    "port": 443,
+    "password": "https://dsc.gg/ajidevserver",
+    "secure": true,
+    "identifier": "public-lavalink"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "discord-music-bot",
+  "version": "1.0.0",
+  "description": "Advanced Discord Music Bot with Lavalink integration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "discord",
+    "music",
+    "bot",
+    "lavalink"
+  ],
+  "author": "Umbra X Development",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^14.24.2",
+    "erela.js": "^2.4.0",
+    "shoukaku": "^4.2.0"
+  }
+}
